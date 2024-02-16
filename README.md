@@ -1,4 +1,6 @@
-https://media.licdn.com/dms/image/C561BAQE1T9lbOa1jdg/company-background_10000/0/1599790413274/entelika_cover?e=1708722000&v=beta&t=Gt89xcItE5kU9AjaOUXGH5_k7kpK_F7TtQ_3ofdpWGo
+![entelika_logo](https://github.com/GSR927/Entelika-Excel-to-Database-using-Pipelines/assets/65131244/11b79df7-8ea2-478b-a7be-1d0388f4f3fc)![entelika_cover](https://github.com/GSR927/Entelika-Excel-to-Database-using-Pipelines/assets/65131244/8c457b69-46d5-4779-abba-b713e3a4dbcd)
+
+
 
 Pycharm is used as the IDE to run main.py.
 
