@@ -56,7 +56,7 @@ def main():
     create_tables()
 
     # Specify the path to the Excel file
-    excel_file = 'C:\\Users\\br000\\PycharmProjects\\internship\\internshipdata.xlsx'
+    excel_file = 'C:\\Users\\username\\PycharmProjects\\Projectname\\excelfilename.xlsx'
 
     # Extract data from the Excel file and insert into tables
     extract_data_from_excel(excel_file)
